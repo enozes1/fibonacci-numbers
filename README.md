@@ -30,7 +30,7 @@ or
 ```bash
 ruby fibonacci_iterative.rb 10
 ```
-
+---
 ```bash
 ruby fibonacci_recursive.rb
 ```
